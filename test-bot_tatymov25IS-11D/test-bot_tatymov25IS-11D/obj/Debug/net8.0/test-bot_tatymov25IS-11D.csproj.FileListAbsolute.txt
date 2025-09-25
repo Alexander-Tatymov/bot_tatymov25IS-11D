@@ -1,0 +1,46 @@
+C:\Users\Student\Desktop\Tatymov 25IS-11D\test-bot_tatymov25IS-11D\test-bot_tatymov25IS-11D\bin\Debug\net8.0\test-bot_tatymov25IS-11D.exe
+C:\Users\Student\Desktop\Tatymov 25IS-11D\test-bot_tatymov25IS-11D\test-bot_tatymov25IS-11D\bin\Debug\net8.0\test-bot_tatymov25IS-11D.deps.json
+C:\Users\Student\Desktop\Tatymov 25IS-11D\test-bot_tatymov25IS-11D\test-bot_tatymov25IS-11D\bin\Debug\net8.0\test-bot_tatymov25IS-11D.runtimeconfig.json
+C:\Users\Student\Desktop\Tatymov 25IS-11D\test-bot_tatymov25IS-11D\test-bot_tatymov25IS-11D\bin\Debug\net8.0\test-bot_tatymov25IS-11D.dll
+C:\Users\Student\Desktop\Tatymov 25IS-11D\test-bot_tatymov25IS-11D\test-bot_tatymov25IS-11D\bin\Debug\net8.0\test-bot_tatymov25IS-11D.pdb
+C:\Users\Student\Desktop\Tatymov 25IS-11D\test-bot_tatymov25IS-11D\test-bot_tatymov25IS-11D\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Student\Desktop\Tatymov 25IS-11D\test-bot_tatymov25IS-11D\test-bot_tatymov25IS-11D\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Student\Desktop\Tatymov 25IS-11D\test-bot_tatymov25IS-11D\test-bot_tatymov25IS-11D\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Student\Desktop\Tatymov 25IS-11D\test-bot_tatymov25IS-11D\test-bot_tatymov25IS-11D\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Student\Desktop\Tatymov 25IS-11D\test-bot_tatymov25IS-11D\test-bot_tatymov25IS-11D\bin\Debug\net8.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Student\Desktop\Tatymov 25IS-11D\test-bot_tatymov25IS-11D\test-bot_tatymov25IS-11D\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Student\Desktop\Tatymov 25IS-11D\test-bot_tatymov25IS-11D\test-bot_tatymov25IS-11D\bin\Debug\net8.0\Telegram.Bot.dll
+C:\Users\Student\Desktop\Tatymov 25IS-11D\test-bot_tatymov25IS-11D\test-bot_tatymov25IS-11D\obj\Debug\net8.0\test-bot_tatymov25IS-11D.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\Tatymov 25IS-11D\test-bot_tatymov25IS-11D\test-bot_tatymov25IS-11D\obj\Debug\net8.0\test-bot_tatymov25IS-11D.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\Tatymov 25IS-11D\test-bot_tatymov25IS-11D\test-bot_tatymov25IS-11D\obj\Debug\net8.0\test-bot_tatymov25IS-11D.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\Tatymov 25IS-11D\test-bot_tatymov25IS-11D\test-bot_tatymov25IS-11D\obj\Debug\net8.0\test-bot_tatymov25IS-11D.AssemblyInfo.cs
+C:\Users\Student\Desktop\Tatymov 25IS-11D\test-bot_tatymov25IS-11D\test-bot_tatymov25IS-11D\obj\Debug\net8.0\test-bot_tatymov25IS-11D.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\Tatymov 25IS-11D\test-bot_tatymov25IS-11D\test-bot_tatymov25IS-11D\obj\Debug\net8.0\test-bot.E4432516.Up2Date
+C:\Users\Student\Desktop\Tatymov 25IS-11D\test-bot_tatymov25IS-11D\test-bot_tatymov25IS-11D\obj\Debug\net8.0\test-bot_tatymov25IS-11D.dll
+C:\Users\Student\Desktop\Tatymov 25IS-11D\test-bot_tatymov25IS-11D\test-bot_tatymov25IS-11D\obj\Debug\net8.0\refint\test-bot_tatymov25IS-11D.dll
+C:\Users\Student\Desktop\Tatymov 25IS-11D\test-bot_tatymov25IS-11D\test-bot_tatymov25IS-11D\obj\Debug\net8.0\test-bot_tatymov25IS-11D.pdb
+C:\Users\Student\Desktop\Tatymov 25IS-11D\test-bot_tatymov25IS-11D\test-bot_tatymov25IS-11D\obj\Debug\net8.0\test-bot_tatymov25IS-11D.genruntimeconfig.cache
+C:\Users\Student\Desktop\Tatymov 25IS-11D\test-bot_tatymov25IS-11D\test-bot_tatymov25IS-11D\obj\Debug\net8.0\ref\test-bot_tatymov25IS-11D.dll
+C:\Users\Student\Documents\GitHub\bot_tatymov25IS-11D\test-bot_tatymov25IS-11D\test-bot_tatymov25IS-11D\bin\Debug\net8.0\test-bot_tatymov25IS-11D.exe
+C:\Users\Student\Documents\GitHub\bot_tatymov25IS-11D\test-bot_tatymov25IS-11D\test-bot_tatymov25IS-11D\bin\Debug\net8.0\test-bot_tatymov25IS-11D.deps.json
+C:\Users\Student\Documents\GitHub\bot_tatymov25IS-11D\test-bot_tatymov25IS-11D\test-bot_tatymov25IS-11D\bin\Debug\net8.0\test-bot_tatymov25IS-11D.runtimeconfig.json
+C:\Users\Student\Documents\GitHub\bot_tatymov25IS-11D\test-bot_tatymov25IS-11D\test-bot_tatymov25IS-11D\bin\Debug\net8.0\test-bot_tatymov25IS-11D.dll
+C:\Users\Student\Documents\GitHub\bot_tatymov25IS-11D\test-bot_tatymov25IS-11D\test-bot_tatymov25IS-11D\bin\Debug\net8.0\test-bot_tatymov25IS-11D.pdb
+C:\Users\Student\Documents\GitHub\bot_tatymov25IS-11D\test-bot_tatymov25IS-11D\test-bot_tatymov25IS-11D\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Student\Documents\GitHub\bot_tatymov25IS-11D\test-bot_tatymov25IS-11D\test-bot_tatymov25IS-11D\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Student\Documents\GitHub\bot_tatymov25IS-11D\test-bot_tatymov25IS-11D\test-bot_tatymov25IS-11D\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Student\Documents\GitHub\bot_tatymov25IS-11D\test-bot_tatymov25IS-11D\test-bot_tatymov25IS-11D\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Student\Documents\GitHub\bot_tatymov25IS-11D\test-bot_tatymov25IS-11D\test-bot_tatymov25IS-11D\bin\Debug\net8.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Student\Documents\GitHub\bot_tatymov25IS-11D\test-bot_tatymov25IS-11D\test-bot_tatymov25IS-11D\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Student\Documents\GitHub\bot_tatymov25IS-11D\test-bot_tatymov25IS-11D\test-bot_tatymov25IS-11D\bin\Debug\net8.0\Telegram.Bot.dll
+C:\Users\Student\Documents\GitHub\bot_tatymov25IS-11D\test-bot_tatymov25IS-11D\test-bot_tatymov25IS-11D\obj\Debug\net8.0\test-bot_tatymov25IS-11D.csproj.AssemblyReference.cache
+C:\Users\Student\Documents\GitHub\bot_tatymov25IS-11D\test-bot_tatymov25IS-11D\test-bot_tatymov25IS-11D\obj\Debug\net8.0\test-bot_tatymov25IS-11D.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Documents\GitHub\bot_tatymov25IS-11D\test-bot_tatymov25IS-11D\test-bot_tatymov25IS-11D\obj\Debug\net8.0\test-bot_tatymov25IS-11D.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\GitHub\bot_tatymov25IS-11D\test-bot_tatymov25IS-11D\test-bot_tatymov25IS-11D\obj\Debug\net8.0\test-bot_tatymov25IS-11D.AssemblyInfo.cs
+C:\Users\Student\Documents\GitHub\bot_tatymov25IS-11D\test-bot_tatymov25IS-11D\test-bot_tatymov25IS-11D\obj\Debug\net8.0\test-bot_tatymov25IS-11D.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\GitHub\bot_tatymov25IS-11D\test-bot_tatymov25IS-11D\test-bot_tatymov25IS-11D\obj\Debug\net8.0\test-bot.E4432516.Up2Date
+C:\Users\Student\Documents\GitHub\bot_tatymov25IS-11D\test-bot_tatymov25IS-11D\test-bot_tatymov25IS-11D\obj\Debug\net8.0\test-bot_tatymov25IS-11D.dll
+C:\Users\Student\Documents\GitHub\bot_tatymov25IS-11D\test-bot_tatymov25IS-11D\test-bot_tatymov25IS-11D\obj\Debug\net8.0\refint\test-bot_tatymov25IS-11D.dll
+C:\Users\Student\Documents\GitHub\bot_tatymov25IS-11D\test-bot_tatymov25IS-11D\test-bot_tatymov25IS-11D\obj\Debug\net8.0\test-bot_tatymov25IS-11D.pdb
+C:\Users\Student\Documents\GitHub\bot_tatymov25IS-11D\test-bot_tatymov25IS-11D\test-bot_tatymov25IS-11D\obj\Debug\net8.0\test-bot_tatymov25IS-11D.genruntimeconfig.cache
+C:\Users\Student\Documents\GitHub\bot_tatymov25IS-11D\test-bot_tatymov25IS-11D\test-bot_tatymov25IS-11D\obj\Debug\net8.0\ref\test-bot_tatymov25IS-11D.dll

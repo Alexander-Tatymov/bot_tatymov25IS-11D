@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Student\\Documents\\GitHub\\bot_tatymov25IS-11D\\test-bot_tatymov25IS-11D\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF089DD5-02D7-4DB7-B044-A5E36891FBCA}|test-bot_tatymov25IS-11D\\test-bot_tatymov25IS-11D.csproj|c:\\users\\student\\documents\\github\\bot_tatymov25is-11d\\test-bot_tatymov25is-11d\\test-bot_tatymov25is-11d\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF089DD5-02D7-4DB7-B044-A5E36891FBCA}|test-bot_tatymov25IS-11D\\test-bot_tatymov25IS-11D.csproj|solutionrelative:test-bot_tatymov25is-11d\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF089DD5-02D7-4DB7-B044-A5E36891FBCA}|test-bot_tatymov25IS-11D\\test-bot_tatymov25IS-11D.csproj|c:\\users\\student\\documents\\github\\bot_tatymov25is-11d\\test-bot_tatymov25is-11d\\test-bot_tatymov25is-11d\\test-bot_tatymov25is-11d.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CF089DD5-02D7-4DB7-B044-A5E36891FBCA}|test-bot_tatymov25IS-11D\\test-bot_tatymov25IS-11D.csproj|solutionrelative:test-bot_tatymov25is-11d\\test-bot_tatymov25is-11d.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "test-bot_tatymov25IS-11D.csproj",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\GitHub\\bot_tatymov25IS-11D\\test-bot_tatymov25IS-11D\\test-bot_tatymov25IS-11D\\test-bot_tatymov25IS-11D.csproj",
+              "RelativeDocumentMoniker": "test-bot_tatymov25IS-11D\\test-bot_tatymov25IS-11D.csproj",
+              "ToolTip": "C:\\Users\\Student\\Documents\\GitHub\\bot_tatymov25IS-11D\\test-bot_tatymov25IS-11D\\test-bot_tatymov25IS-11D\\test-bot_tatymov25IS-11D.csproj",
+              "RelativeToolTip": "test-bot_tatymov25IS-11D\\test-bot_tatymov25IS-11D.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-18T11:43:28.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\GitHub\\bot_tatymov25IS-11D\\test-bot_tatymov25IS-11D\\test-bot_tatymov25IS-11D\\Program.cs",
+              "RelativeDocumentMoniker": "test-bot_tatymov25IS-11D\\Program.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\GitHub\\bot_tatymov25IS-11D\\test-bot_tatymov25IS-11D\\test-bot_tatymov25IS-11D\\Program.cs",
+              "RelativeToolTip": "test-bot_tatymov25IS-11D\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T11:40:02.027Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
